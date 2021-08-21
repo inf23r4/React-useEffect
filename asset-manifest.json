@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-useEffect/static/css/main.66e6f5b6.chunk.css",
+    "main.js": "/React-useEffect/static/js/main.8d5db1f4.chunk.js",
+    "main.js.map": "/React-useEffect/static/js/main.8d5db1f4.chunk.js.map",
+    "runtime-main.js": "/React-useEffect/static/js/runtime-main.b4cbbb2d.js",
+    "runtime-main.js.map": "/React-useEffect/static/js/runtime-main.b4cbbb2d.js.map",
+    "static/js/2.3e429529.chunk.js": "/React-useEffect/static/js/2.3e429529.chunk.js",
+    "static/js/2.3e429529.chunk.js.map": "/React-useEffect/static/js/2.3e429529.chunk.js.map",
+    "static/js/3.56c4241d.chunk.js": "/React-useEffect/static/js/3.56c4241d.chunk.js",
+    "static/js/3.56c4241d.chunk.js.map": "/React-useEffect/static/js/3.56c4241d.chunk.js.map",
+    "index.html": "/React-useEffect/index.html",
+    "static/css/main.66e6f5b6.chunk.css.map": "/React-useEffect/static/css/main.66e6f5b6.chunk.css.map",
+    "static/js/2.3e429529.chunk.js.LICENSE.txt": "/React-useEffect/static/js/2.3e429529.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4cbbb2d.js",
+    "static/js/2.3e429529.chunk.js",
+    "static/css/main.66e6f5b6.chunk.css",
+    "static/js/main.8d5db1f4.chunk.js"
+  ]
+}
